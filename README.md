@@ -1,7 +1,7 @@
 <h1 align="center">David Correa  💻🎼</h1>
 
 <p align="center">
-  <em>💻Backend Developer | ☕Java & Spring Boot Enthusiast | 🔄Tech Adaptable</em>
+  <em>💻Backend Developer | ☕Java & Spring Boot | 🔄Tech Adaptable</em>
 </p>
 
 ---
