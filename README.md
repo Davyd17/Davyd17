@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm David Correa</h1>
+<h1 align="center">David Correa  💻🎵</></h1>
 
 <p align="center">
-  <em>Backend Developer | Java & Spring Boot Enthusiast | Tech Explorer</em>
+  <em>💻Backend Developer | ☕Java & Spring Boot Enthusiast | 🔄Tech Adaptable</em>
 </p>
 
 ---
@@ -10,10 +10,11 @@
 
 I'm a backend developer who enjoys building clean, scalable, and maintainable systems. My core stack is **Java + Spring Boot + PostgreSQL**, but I’m constantly learning and adapting to new tools as projects demand.
 
-- 🔄 I’m highly adaptable to different technologies and project needs  
+- 🔄 I’m highly adaptable to different technologies and project needs
+- 🔄 I’m currently working on becoming a **fullstack developer**, but my strongest skills are on the **backend side**  
 - 📚 Currently learning **Laravel**, **Vue.js**, and **n8n** for automation  
 - 🧠 Strong foundation in **data structures**, **algorithms**, and **clean code**  
-- 🤝 I enjoy working in teams, sharing knowledge, and solving real-world problems
+- 🤝 I enjoy working in teams, sharing knowledge, and solving new problems
 
 ---
 
@@ -23,9 +24,6 @@ I'm a backend developer who enjoys building clean, scalable, and maintainable sy
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -46,7 +44,6 @@ Here are a few projects I'm working on or recently built:
 
 - **📄 GoogleSheetsSync**: Real-time data sync between Google Sheets and PostgreSQL (in progress)
 - **💰 Budget Tracker App**: Personal finance management tool
-- **📅 Event Booking System**: Platform to manage events and reservations
 - **🧠 Task Manager**: Simple productivity tool built with Java and Spring Boot
 
 > Check out my pinned repositories for more!
@@ -55,8 +52,8 @@ Here are a few projects I'm working on or recently built:
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
-- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-correa-563a94265/)  
+- 📧 Email: davdcq55@gmail.com  
 - 🌐 Portfolio (soon)
 
 ---
