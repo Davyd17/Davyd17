@@ -11,8 +11,7 @@
 I'm a backend developer who enjoys building clean, scalable, and maintainable systems. My core stack is **Java + Spring Boot + PostgreSQL**, but I’m constantly learning and adapting to new tools as projects demand.
 
 - 🔄 I’m highly adaptable to different technologies and project needs
-- 🔄 I’m currently working on becoming a **fullstack developer**, but my strongest skills are on the **backend side**  
-- 📚 Currently learning **Laravel**, **Vue.js**, and **n8n** for automation  
+- 🔄 I’m currently working on becoming a **fullstack developer**, but my strongest skills are on the **backend side**   
 - 🧠 Strong foundation in **data structures**, **algorithms**, and **clean code**  
 - 🤝 I enjoy working in teams, sharing knowledge, and solving new problems
 
